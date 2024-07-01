@@ -47,20 +47,20 @@ fnaf_order = [
 
 
 strings = [
-    "GCSLGKKC", # album order  | without CHICA & BONNIE
-    "GCSLCBGK", # album order  | without KAYFABE + CHIMERA
-    "GKKSLGCC", # fnaf order 1 | without CHICA & BONNIE
-    "GKSLGCCB", # fnaf order 1 | without KAYFABE + CHIMERA     +     fnaf order 2 | without KAYFABE + CHIMERA
-    "KGKSLGCC", # fnaf order 2 | without CHICA & BONNIE
-    "CKKGLSCG", # album order  | without CHICA & BONNIE                                                            + TRUE REVERSE
-    "KGBCLSCG", # album order  | without KAYFABE + CHIMERA                                                         + TRUE REVERSE
-    "CCGLSKKG", # fnaf order 1 | without CHICA & BONNIE                                                            + TRUE REVERSE
-    "BCCGLSKG", # fnaf order 1 | without KAYFABE + CHIMERA     +     fnaf order 2 | without KAYFABE + CHIMERA      + TRUE REVERSE
-    "CCGLSKGK", # fnaf order 2 | without CHICA & BONNIE                                                            + TRUE REVERSE
-    "CKGKSLGC", # album order  | without CHICA & BONNIE        + REVERSE
-    "GKCBSLGC", # album order  | without KAYFABE + CHIMERA     + REVERSE
-    "CGCSLKGK", # fnaf order 1 | without CHICA & BONNIE        + REVERSE
-    "CBGCSLGK", # fnaf order 1 | without KAYFABE + CHIMERA     + REVERSE
-    "CGCSLGKK", # fnaf order 2 | without CHICA & BONNIE        + REVERSE
-    "CNGCSMGK", # fnaf order 2 | without KAYFABE + CHIMERA     + REVERSE
-]
+    # "GCSLGKKC", # album order  | without CHICA & BONNIE
+    # "GCSLCBGK", # album order  | without KAYFABE + CHIMERA
+    # "GKKSLGCC", # fnaf order 1 | without CHICA & BONNIE
+    # "GKSLGCCB", # fnaf order 1 | without KAYFABE + CHIMERA     +     fnaf order 2 | without KAYFABE + CHIMERA
+    # "KGKSLGCC", # fnaf order 2 | without CHICA & BONNIE
+    # "CKKGLSCG", # album order  | without CHICA & BONNIE                                                            + TRUE REVERSE
+    # "KGBCLSCG", # album order  | without KAYFABE + CHIMERA                                                         + TRUE REVERSE
+    # "CCGLSKKG", # fnaf order 1 | without CHICA & BONNIE                                                            + TRUE REVERSE
+    # "BCCGLSKG", # fnaf order 1 | without KAYFABE + CHIMERA     +     fnaf order 2 | without KAYFABE + CHIMERA      + TRUE REVERSE
+    # "CCGLSKGK", # fnaf order 2 | without CHICA & BONNIE                                                            + TRUE REVERSE
+    # "CKGKSLGC", # album order  | without CHICA & BONNIE        + REVERSE
+    # "GKCBSLGC", # album order  | without KAYFABE + CHIMERA     + REVERSE
+    # "CGCSLKGK", # fnaf order 1 | without CHICA & BONNIE        + REVERSE
+    # "CBGCSLGK", # fnaf order 1 | without KAYFABE + CHIMERA     + REVERSE
+    # "CGCSLGKK", # fnaf order 2 | without CHICA & BONNIE        + REVERSE
+    # "CNGCSMGK", # fnaf order 2 | without KAYFABE + CHIMERA     + REVERSE
+] # NO RESULTS

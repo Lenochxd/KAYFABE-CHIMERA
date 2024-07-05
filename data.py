@@ -7,8 +7,6 @@ j = """
 4 GEM KARSON
 """
 
-def reverse_dict(dict):
-    return 
 
 
 ALBUM = {
@@ -39,7 +37,6 @@ ALBUM_FNAF_ORDER = [
     },
 ]
 
-ALBUM_REVERSE = reverse_dict(ALBUM)
 fnaf_order = [
     [4, 5, 2, 1, 3, 6],
     [5, 4, 2, 1, 3, 6]
